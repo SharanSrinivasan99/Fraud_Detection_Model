@@ -65,7 +65,7 @@ While the model shows promise, real-world implementation would require:
 - Integration with customer alerts and fraud teams
 
 ---
-## ⚠️ But We Hit a Wall
+## ⚠️ Disclaimer
 This work was completed as part of the **BUSINFO 704** course at the **University of Auckland**. 
 
 Made with 💻, ☕, and lots of `ggplot2`.
