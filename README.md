@@ -42,7 +42,7 @@ With over $198 million lost to scams in New Zealand in 2023 alone (MBIE, 2024), 
 
 ## 📊 Key Insights
 
-- Fraud spikes between **2 AM and 6 AM**—timing matters.
+- Fraud spikes between **2 AM and 6 AM**.timing matters.
 - **Senior citizens (Age > 70)** are at elevated risk.
 - **Negative balance** and **high-value transactions** are major red flags.
 - The model picked up on **2,000+ fraud cases**, simulating real-world value.
